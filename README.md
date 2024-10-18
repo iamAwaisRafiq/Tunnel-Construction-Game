@@ -9,6 +9,9 @@ Challenging Levels: Progress through multiple levels with increasing difficulty.
 User-Friendly Interface: Intuitive controls and HUD navigation for a seamless experience.
 Immersive Experience: Engaging graphics and sound effects that enhance gameplay.
 
+## Download the APK
+You can download the APK file for the Tunnel Construction game from the following link:
+[Download APK](https://drive.google.com/file/d/1XqctnsRHF5kZYwRpP-cJDFpRF9Cy8DXe/view?usp=drive_link)
 
 #Installation:  
 Download the APK file from the releases section.
